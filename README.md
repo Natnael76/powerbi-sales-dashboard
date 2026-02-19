@@ -47,7 +47,7 @@ This project is an interactive business intelligence dashboard built using Micro
 ## Screenshots
 
 ### Dashboard View
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Business Insights
 ![Insights](Insights.png)
