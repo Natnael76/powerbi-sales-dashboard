@@ -24,5 +24,34 @@ This project is an interactive business intelligence dashboard built using Micro
 
 ### Interactive Analysis
 - Region filter for geographic performance analysis
-- Order d
-# powerbi-sales-dashboard
+- Order date filter for time-based analysis
+- Dynamic dashboard visuals
+
+### Business Insights
+- Identified top-performing product categories
+- Analyzed revenue trends over time
+- Generated recommendations for business strategy improvements
+
+## Results and Insights
+- Technology category generates the highest revenue contribution
+- Sales trend shows overall decline over time
+- Revenue varies across regions, indicating market performance differences
+
+## Recommendations
+- Increase focus on high-performing product categories
+- Investigate causes of declining sales trends
+- Implement targeted marketing strategies by region
+
+## Project Structure
+
+## Screenshots
+
+### Dashboard View
+![Dashboard](dashboard.png)
+
+### Business Insights
+![Insights](insights.png)
+
+## Author
+Natnael 
+
