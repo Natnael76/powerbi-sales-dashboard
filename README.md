@@ -47,11 +47,9 @@ This project is an interactive business intelligence dashboard built using Micro
 ## Screenshots
 
 ### Dashboard View
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.pdf)
 
 ### Business Insights
-![Insights](insights.png)
+![Insights](Insights.pdf)
 
-## Author
-Natnael 
 
